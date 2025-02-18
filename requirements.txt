@@ -1,0 +1,6 @@
+duckdb==1.2.0
+Pillow==11.1.0
+psutil==7.0.0
+pyarrow==19.0.0
+Requests==2.32.3
+rich==13.9.4
